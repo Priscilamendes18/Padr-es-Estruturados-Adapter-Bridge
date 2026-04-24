@@ -54,3 +54,7 @@ node Adapter01.js
 #### Para Python:
 ```bash
 python Adapter01.py
+
+````
+---
+                                                 Priscila de Carvalho Mendes
