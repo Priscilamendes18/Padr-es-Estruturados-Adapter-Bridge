@@ -1,0 +1,1 @@
+# Padr-es-Estruturados-Adapter-Bridge
