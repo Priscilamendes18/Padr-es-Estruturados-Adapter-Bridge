@@ -57,4 +57,5 @@ python Adapter01.py
 
 ````
 ---
-                                                 Priscila de Carvalho Mendes
+
+Priscila de Carvalho Mendes
