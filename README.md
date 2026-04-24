@@ -34,11 +34,23 @@ Aplicação do padrão para separar a abstração da sua implementação, facili
 ```bash
 git clone [https://github.com/seu-usuario/PadroesEstruturados.git](https://github.com/seu-usuario/PadroesEstruturados.git)
 
----
+````
 
 ### 2. Acesse a pasta do padrão desejado:
 ```bash
 Exemplo para o Bridge
 cd PadrõesEstruturados/Bridge
 
+````
 ### 3. Inicie o projeto e execute:
+#### Para JavaScript (Node.js):
+```bash
+node Bridge01.js
+# ou
+node Adapter01.js
+
+````
+
+#### Para Python:
+```bash
+python Adapter01.py
